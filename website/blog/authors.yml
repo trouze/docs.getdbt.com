@@ -451,6 +451,20 @@ sung_chung:
   name: Sung Won Chung
   organization: dbt Labs
 
+tyler_rouze:
+  description: Tyler Rouze is a Senior Consultant at Analytics8 where he does something.
+  image_url: /img/blog/authors/tyler-rouze.jpg
+  job_title: Senior Consultant
+  name: Tyler Rouze
+  organization: Analytics8
+  links:
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/in/tylerrouze/
+    - icon: fa-github
+      url: https://github.com/trouze
+    - icon: fa-readme
+      url: https://tylerrouze.com
+
 viraj_parekh:
   image_url: /img/blog/authors/viraj-parekh.jpeg
   job_title: Field CTO
